@@ -1,0 +1,27 @@
+@media only screen and (max-width: 800px){
+    .aboutcontent {
+    flex-direction: column;
+}
+.aboutImg {
+    width: 100%;
+    height: auto;
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 20px;
+}
+header .topheader {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.logo {
+    padding: 0;
+}
+header .nav ul li {
+    padding: 5px 0px;
+}
+.logo a h2 {
+    padding: 5px 0px;
+    text-align: center;
+}
+}
